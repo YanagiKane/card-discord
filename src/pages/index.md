@@ -19,7 +19,7 @@ status: "idle"
 badges:
   "hypesquad-balance":
   "discord-partner" :
-  "server-owner":
+  "verified":
   # An example of metadata usage, you may uncomment following lines by removing "#":
   # "nitro": {
   #   date: "13 May 2020"
