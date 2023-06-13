@@ -2,23 +2,22 @@
 # PLEASE DO NOT EDIT "layout"
 layout: "../layouts/Layout.astro"
 # Banner type, can be either "color" or "image"
-bannerType: "color"
+bannerType: "image"
 # Banner color or an image depending on the banner type set above,
 # either provide a color inside quotes or a path to an image (external links are supported)
-banner: "#d0cdc3"
+banner: "https://simp4.jpg.church/IMG_444148cd21afe6b5699a.png"
 # User avatar to display, can be external link or a path to an image from public folder
-avatar: "https://cdn.discordapp.com/avatars/418306434317680641/b2dbf8037d99af65706882bbdf6390df.png"
+avatar: "https://simp4.jpg.church/IMG_4714786df231a3db66fe.png"
 # Discord custom nickname set above
-displayName: "Domin"
+displayName: "KIKYO 桔梗"
 # Username on discord, follows the case you set, won't track your Discord account e.g. "Domin#2874" or "dominnya"
-username: "Domin#2874"
+username: "KIKYO#3566"
 # Discord status, can be "online-mobile", "online", "idle", "do-not-disturb", "invisible" or "streaming"
 status: "online"
 # Badges next to avatar, some badges need metadata such as "date" or "username"
 # all names are available at public/badges/margins folder
 badges:
   "hypesquad-balance":
-  "active-developer":
   # An example of metadata usage, you may uncomment following lines by removing "#":
   # "nitro": {
   #   date: "13 May 2020"
@@ -28,35 +27,36 @@ badges:
   # },
 # Roles in profile: Key name stands for the label, value is the color
 roles:
-  "Fullstack Web Developer": "#006f72"
-  "UI/UX Designer": "#9b2335"
-  "FOSS Contributor": "#ffecc1"
+  "Graphic Designer": "#ee0100"
+  "Illustrator": "#ffffff"
 # Connections, all connections are available at public/connections folder
 # "verified" key is optional but indicates verified icon
 # if "url" key is not provided, then the external link icon won't appear
 connections:
-  github:
-    username: "domin-mnd"
-    url: "https://github.com/domin-mnd"
+  fiverr:
+    username: "FIVERR"
+    url: "https://www.fiverr.com/kikyodesigns?up_rollout=true"
     verified: true
-  reddit:
-    username: "Domin-MC"
-    url: "https://www.reddit.com/u/Domin-MC"
+  shopee:
+    username: "SHOPEE"
+    url: "https://shp.ee/nhjdtja"
     verified: true
-  spotify:
-    username: "Domin"
-    url: "https://open.spotify.com/user/qzvkioir1rboe390cngafj94x"
+  telegram:
+    username: "TELEGRAM"
+    url: "https://t.me/kikyodesigns"
     verified: true
   twitter:
-    username: "Dominiff"
-    url: "https://twitter.com/@dominiff"
+    username: "TWITTER"
+    url: "https://twitter.com/kikyodesigns?s=21"
+    verified: true
+  instagram:
+    username: "INSTAGRAM"
+    url: "https://instagram.com/kikyo.designs?igshid=OGQ5ZDc2ODk2ZA=="
     verified: true
 ---
 
 <!-- Your About Me section -->
 
-Hi, I'm an independent web developer based in Kazan, Russia.
+Hi! i’m Im Kikyo from indonesia, Graphic Designer With over 3 Years experience. focus on Mascot logo & Illustration.
 
-I mostly work with [frontend web development](https://domin.pro), designing user interfaces and improving user experience. My passion is tech so most of the projects I work on are open-source. Some projects are meant to automate my life, some are meant to express my obsession with art.
-
-I'm interested in gaming, studying and experimenting with web design.
+I can provide the creative expertise you need. Let's work together to bring your vision to life and achieve outstanding visual results.
