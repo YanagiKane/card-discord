@@ -13,7 +13,7 @@ displayName: "KIKYO 桔梗"
 # Username on discord, follows the case you set, won't track your Discord account e.g. "Domin#2874" or "dominnya"
 username: "KIKYO#3566"
 # Discord status, can be "online-mobile", "online", "idle", "do-not-disturb", "invisible" or "streaming"
-status: "online"
+status: "idle"
 # Badges next to avatar, some badges need metadata such as "date" or "username"
 # all names are available at public/badges/margins folder
 badges:
