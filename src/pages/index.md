@@ -11,7 +11,7 @@ avatar: "https://simp4.jpg.church/IMG_4714786df231a3db66fe.png"
 # Discord custom nickname set above
 displayName: "KIKYO 桔梗"
 # Username on discord, follows the case you set, won't track your Discord account e.g. "Domin#2874" or "dominnya"
-username: "KIKYO#3566"
+username: "19 years old"
 # Discord status, can be "online-mobile", "online", "idle", "do-not-disturb", "invisible" or "streaming"
 status: "idle"
 # Badges next to avatar, some badges need metadata such as "date" or "username"
