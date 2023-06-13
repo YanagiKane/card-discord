@@ -18,6 +18,8 @@ status: "idle"
 # all names are available at public/badges/margins folder
 badges:
   "hypesquad-balance":
+  "discord-partner" :
+  "server-owner":
   # An example of metadata usage, you may uncomment following lines by removing "#":
   # "nitro": {
   #   date: "13 May 2020"
